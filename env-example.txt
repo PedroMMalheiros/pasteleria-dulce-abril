@@ -1,0 +1,6 @@
+# Optional local override. Copy to .env.local when changing the hosting path.
+# GitHub Actions normally obtains the path automatically from GitHub Pages.
+VITE_BASE_PATH=/pasteleria-dulce-abril/
+
+# For a custom domain or a USERNAME.github.io repository, use:
+# VITE_BASE_PATH=/

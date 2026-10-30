@@ -1,0 +1,22 @@
+# Dependencies and generated output
+node_modules/
+dist/
+dist-ssr/
+.vite/
+.cache/
+.npm/
+.pnpm-store/
+coverage/
+*.tsbuildinfo
+*.log
+
+# Local environment files; the documented example contains no secrets
+.env
+.env.*
+!.env.example
+
+# Local hosting/tool state and operating-system files
+.openai/
+.DS_Store
+Thumbs.db
+.idea/
